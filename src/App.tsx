@@ -25,7 +25,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
-      <p className="read-the-docs">HELLO WORLD PUSHED THIS JUST NOW</p>
+      <p className="read-the-docs"> NVM CHANGED MY MIND</p>
     </>
   );
 }
